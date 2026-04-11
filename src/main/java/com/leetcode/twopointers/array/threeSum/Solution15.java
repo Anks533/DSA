@@ -14,9 +14,10 @@ public class Solution15 {
     public static List<List<Integer>> threeSum(int[] nums) {
         List<List<Integer>> threeSumList = new ArrayList<>();
         Arrays.sort(nums);
-        for(int i=0; i< nums.length-2;i++) {
+        for(int i=0; i< nums.length-2; i++) {
             int target = -nums[i]; // first number i.e target of 2 sum - [a+b+c = 0 or b+c = -a]
             if( i > 0 && nums[i] == nums[i-1]) {
+                // to avoid duplicates
                continue;
             }
 
@@ -40,10 +41,12 @@ public class Solution15 {
                     k--;
 
                     while(j < nums.length &&  nums[j] == nums[j-1]) {
+                        // to avoid duplicates
                         j++;
                     }
 
                     while(k >= 0 &&  nums[k] == nums[k+1]) {
+                        // to avoid duplicates
                         k--;
                     }
                 }
