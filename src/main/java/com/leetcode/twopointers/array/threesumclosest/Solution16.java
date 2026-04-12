@@ -4,7 +4,7 @@ import java.util.Arrays;
 
 public class Solution16 {
     public static void main(String[] args) {
-        threeSumClosest(new int[] {-1, 2, 1, -4}, 1);
+        System.out.print("Closest Sum is :: " + threeSumClosest(new int[] {-1, 2, 1, -4}, 1));
     }
 
     public static int threeSumClosest(int[] nums, int target) {
