@@ -1,4 +1,4 @@
-package com.leetcode.twopointers.array.threeSum;
+package com.leetcode.array.twopointers.threeSum;
 
 import java.util.ArrayList;
 import java.util.Arrays;

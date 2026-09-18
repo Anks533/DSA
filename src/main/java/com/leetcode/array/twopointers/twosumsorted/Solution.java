@@ -1,4 +1,4 @@
-package com.leetcode.twopointers.array.twosumsorted;
+package com.leetcode.array.twopointers.twosumsorted;
 
 public class Solution {
     public static void main(String[] args) {

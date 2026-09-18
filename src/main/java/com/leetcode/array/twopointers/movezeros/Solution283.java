@@ -1,4 +1,4 @@
-package com.leetcode.twopointers.array.movezeros;
+package com.leetcode.array.twopointers.movezeros;
 
 public class Solution283 {
 

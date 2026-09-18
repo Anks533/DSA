@@ -1,4 +1,4 @@
-package com.leetcode.twopointers.array.trappingrainwater;
+package com.leetcode.array.twopointers.trappingrainwater;
 
 public class Solution42 {
     public static void main(String[] args) {

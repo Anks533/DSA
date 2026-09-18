@@ -1,4 +1,4 @@
-package com.leetcode.twopointers.array.threesumclosest;
+package com.leetcode.array.twopointers.threesumclosest;
 
 import java.util.Arrays;
 

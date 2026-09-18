@@ -1,4 +1,4 @@
-package com.leetcode.twopointers.array.sortcolors;
+package com.leetcode.array.twopointers.sortcolors;
 
 public class Solution75 {
     public static void main(String[] args) {

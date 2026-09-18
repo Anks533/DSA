@@ -1,4 +1,4 @@
-package com.leetcode.twopointers.array.threesumsmaller;
+package com.leetcode.array.twopointers.threesumsmaller;
 
 public class Solution259 {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package com.leetcode.twopointers.array.removeduplicatesorted;
+package com.leetcode.array.twopointers.removeduplicatesorted;
 
 public class Solution26 {
     public static void main(String[] args) {

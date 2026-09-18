@@ -1,4 +1,4 @@
-package com.leetcode.twopointers.array.squareofsortedarray;
+package com.leetcode.array.twopointers.squareofsortedarray;
 
 public class Solution977 {
 

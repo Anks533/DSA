@@ -1,4 +1,4 @@
-package com.leetcode.twopointers.array.containerwithmostwater;
+package com.leetcode.array.twopointers.containerwithmostwater;
 
 public class Solution11 {
 
