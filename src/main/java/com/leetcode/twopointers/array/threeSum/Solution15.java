@@ -40,12 +40,12 @@ public class Solution15 {
                     j++;
                     k--;
 
-                    while(j < nums.length &&  nums[j] == nums[j-1]) {
+                    while(j<k &&  nums[j] == nums[j-1]) {
                         // to avoid duplicates
                         j++;
                     }
 
-                    while(k >= 0 &&  nums[k] == nums[k+1]) {
+                    while(j<k &&  nums[k] == nums[k+1]) {
                         // to avoid duplicates
                         k--;
                     }
